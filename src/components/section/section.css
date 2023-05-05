@@ -1,0 +1,54 @@
+.secction-container{
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 50vh;
+}
+
+.section-img{
+    width: 90%;
+    border-radius: 20px;
+}
+
+.section-wrapper{
+    position: relative;
+}
+
+.Subs-wrapper{
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    align-items: center;
+}
+
+
+.nevwsletter p{
+    font-size: 50px;
+    color: white;
+    max-width: 400px;
+    line-height: 59px;
+    font-weight: 800;
+    
+}
+
+.input-wrapper{
+    display: flex;
+    
+}
+
+.sub-button{
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: #274C5B;
+    color: white;
+}
+
+.searchinput{
+    height: 45px;
+    border-radius: 20px;
+    width: 250px;
+}

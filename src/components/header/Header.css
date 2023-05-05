@@ -1,0 +1,19 @@
+header{
+    height: 100vh;
+}
+.header-wrapper{
+    position: relative;
+    width: 100%;
+    
+}
+
+
+
+.title{
+    font-size: 70px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    
+}
